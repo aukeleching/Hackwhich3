@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1962C62D205E511E00F4AE14 /* BucketListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1962C62C205E511E00F4AE14 /* BucketListViewController.swift */; };
 		7F2148742028EA2100ED2445 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F2148732028EA2100ED2445 /* AppDelegate.swift */; };
 		7F2148762028EA2100ED2445 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F2148752028EA2100ED2445 /* ViewController.swift */; };
 		7F2148792028EA2100ED2445 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F2148772028EA2100ED2445 /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1962C62C205E511E00F4AE14 /* BucketListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BucketListViewController.swift; sourceTree = "<group>"; };
 		7F2148702028EA2100ED2445 /* Hackwhich3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hackwhich3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F2148732028EA2100ED2445 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7F2148752028EA2100ED2445 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				7F2148732028EA2100ED2445 /* AppDelegate.swift */,
 				7F2148752028EA2100ED2445 /* ViewController.swift */,
 				7F2148772028EA2100ED2445 /* Main.storyboard */,
+				1962C62C205E511E00F4AE14 /* BucketListViewController.swift */,
 				7F2148A12028F25700ED2445 /* VewiControllerTwo.swift */,
 				7F21487A2028EA2100ED2445 /* Assets.xcassets */,
 				7F21487C2028EA2100ED2445 /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 			files = (
 				7F2148762028EA2100ED2445 /* ViewController.swift in Sources */,
 				7F2148742028EA2100ED2445 /* AppDelegate.swift in Sources */,
+				1962C62D205E511E00F4AE14 /* BucketListViewController.swift in Sources */,
 				7F2148A22028F25700ED2445 /* VewiControllerTwo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
